@@ -36,7 +36,7 @@ def checker():
     os.system("notify-send 'nahi aya abhi!!'")
   else:
     os.system("notify-send 'Aa gya bhai .. :O '")
-  driver.close()
+  #driver.close()
 
   
 inp=raw_input("If u want Display enter 1 else 2 : ")
